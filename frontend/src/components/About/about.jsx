@@ -28,20 +28,20 @@ const About = () => {
       <div className="developers" style={{ display: "flex", justifyContent: "space-around", marginTop: "40px" }}>
         <div className="developer">
           <img src="/myimage.jpg" alt="Developer 1" style={{ width: "150px", height: "150px", borderRadius: "50%" }} />
-          <h3 style={{ fontSize: "18px", marginBottom: "5px" }}>John Doe</h3>
-          <p style={{ fontSize: "14px", color: "#666" }}>Email: john@example.com</p>
+          <h3 style={{ fontSize: "18px", marginBottom: "5px" }}>Pintu Kumar</h3>
+          <p style={{ fontSize: "14px", color: "#666" }}>Email: Pintu@example.com</p>
         </div>
 
         <div className="developer">
-          <img src="/myimage.jpg" alt="Developer 2" style={{ width: "150px", height: "150px", borderRadius: "50%" }} />
-          <h3 style={{ fontSize: "18px", marginBottom: "5px" }}>Jane Smith</h3>
-          <p style={{ fontSize: "14px", color: "#666" }}>Email: jane@example.com</p>
+          <img src="/myimage1.jpg" alt="Developer 2" style={{ width: "150px", height: "150px", borderRadius: "50%" }} />
+          <h3 style={{ fontSize: "18px", marginBottom: "5px" }}>Devansh Raj</h3>
+          <p style={{ fontSize: "14px", color: "#666" }}>Email: Dev@example.com</p>
         </div>
 
         <div className="developer">
-          <img src="/myimage.jpg" alt="Developer 3" style={{ width: "150px", height: "150px", borderRadius: "50%" }} />
-          <h3 style={{ fontSize: "18px", marginBottom: "5px" }}>Michael Johnson</h3>
-          <p style={{ fontSize: "14px", color: "#666" }}>Email: michael@example.com</p>
+          <img src="/myimage2.jpg" alt="Developer 3" style={{ width: "150px", height: "150px", borderRadius: "50%" }} />
+          <h3 style={{ fontSize: "18px", marginBottom: "5px" }}>Dilip lodhi</h3>
+          <p style={{ fontSize: "14px", color: "#666" }}>Email: lodhi@example.com</p>
         </div>
       </div>
     </div>
